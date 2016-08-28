@@ -98,8 +98,10 @@
                                                 <span class="onoffswitch-switch"></span>
                                             </label>
                                         </div>
-                                    </div>
 
+                                            <button type="button" name="modifier" class="modifier">modifier</button>
+
+                                    </div>
                                 </div>
                         <?php
                             }
@@ -113,7 +115,7 @@
                             </div>
                         </div>
 
-                </div>
+
             </section>
 
                 </div>
