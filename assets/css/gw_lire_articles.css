@@ -1,29 +1,7 @@
 /*========================================
 ====== Admin / Lire les articles CSS =====
 ========================================*/
-#gerer_articles h2{
-	text-align: center;
-	margin-bottom: 70px;
-}
 
-#gerer_articles h3{
-	text-align: center;
-	text-decoration: underline;
-	margin-bottom: 40px;
-}
-
-#more_articles h2 {
-	text-align: center;
-	margin-top: 30px;
-}
-
-#more_articles button.plus{
-	margin-left: 48%;
-	border-radius: 50px;
-	width: 40px;
-	height: 40px;
-	font-size: 28px;
-	}
 
 .liste{
 	text-align: center;
@@ -85,9 +63,6 @@
     right: 0px;
 }
 
-div.row{
-	text-align: center;
-}
 div.col-sm-9{
 	text-align: justify;
 }
@@ -133,4 +108,8 @@ label[for=brouillon]{
 
 #ajouter{
 	margin-left: 10px;
+}
+
+#validation_modif{
+	margin-top: 25px;
 }
